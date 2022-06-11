@@ -1,4 +1,4 @@
-# awesome
+# Awesome SiYuan
 
 SiYuan learning tutorials and resources, themes, widgets, and more, created by enthusiastic community users, welcome to add new content via PR.
 
