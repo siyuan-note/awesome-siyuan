@@ -9,3 +9,4 @@ SiYuan learning tutorials and resources, themes, widgets, and more, created by e
 
 ## 中文
 
+* [双向链接时代的快速无压记录](https://www.yuque.com/deerain/gannbs/ffqk2e)
