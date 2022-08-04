@@ -9,4 +9,19 @@ SiYuan learning tutorials and resources, themes, widgets, and more, created by e
 
 ## 中文
 
-* [双向链接时代的快速无压记录](https://www.yuque.com/deerain/gannbs/ffqk2e)
+### 新手教程
+
+* [思源笔记基本功能详解 · 语雀](https://www.yuque.com/u25584857/ryp75p/cd49lz)
+* [思源笔记双链使用详解 · 语雀](https://www.yuque.com/u25584857/ryp75p/tcv57u)
+* [思源笔记外观修改详解 · 语雀](https://www.yuque.com/u25584857/ryp75p/sgf58w)
+
+### 相关文章
+
+* [双向链接时代的快速无压记录 · 语雀](https://www.yuque.com/deerain/gannbs/ffqk2e)
+* [MOC - 管理链接而非本体 · 语雀](https://www.yuque.com/deerain/gannbs/hb0gsd)
+* [思源数据库表与字段 · 语雀](https://www.yuque.com/siyuannote/docs/go7uom#04ea747f)
+
+### 相关项目
+
+* [Zuoqiu-Yingyi/siyuan-publish: 思源笔记在线发布工具](https://github.com/Zuoqiu-Yingyi/siyuan-publish)
+* [Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan: 绪山真寻 bot 的思源笔记插件](https://github.com/Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan)
