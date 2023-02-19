@@ -23,6 +23,8 @@ SiYuan learning tutorials and resources, themes, widgets, and more, created by e
 
 ### 相关项目
 
-* [Zuoqiu-Yingyi/siyuan-publish: 思源笔记在线发布工具](https://github.com/Zuoqiu-Yingyi/siyuan-publish)
-* [Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan: 绪山真寻 bot 的思源笔记插件](https://github.com/Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan)
 * [Clouder0/AnkiSiyuan: 同步思源与 Anki](https://github.com/Clouder0/AnkiSiyuan)
+* [Zuoqiu-Yingyi/siyuan-publish: 思源笔记在线发布工具](https://github.com/Zuoqiu-Yingyi/siyuan-publish)
+* [Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan: 绪山真寻 bot 插件 - 思源笔记 QQ 收集箱](https://github.com/Zuoqiu-Yingyi/zhenxun-bot-plugin-siyuan)
+* [Zuoqiu-Yingyi/utools-siyuan: utools 插件 - 思源笔记内容搜索](https://github.com/Zuoqiu-Yingyi/utools-siyuan)
+* [Zuoqiu-Yingyi/siyuan-extension: 浏览器插件 - 思源笔记内容搜索](https://github.com/Zuoqiu-Yingyi/siyuan-extension)
