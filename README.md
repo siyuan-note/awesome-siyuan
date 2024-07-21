@@ -6,6 +6,7 @@ SiYuan learning tutorials and resources, themes, widgets, and more, created by e
 
 ## English
 
+[SiYuan Template Function Guide for Newcomers: Template Syntax + Functions + Markdown Block Syntax](https://liuyun.io/article/1718014557873)
 
 ## 中文
 
